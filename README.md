@@ -3,7 +3,7 @@
 I for one never planned this to be an alternative way of playing the game, but rather used it to learn more about programming in my free time and getting one step further on achieving my dream to work in the space industry. 
 <p>
 
-For more Information see the wiki
+For more Information see the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
 ## Installation
  -none-
 ## Usage example
