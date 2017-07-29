@@ -5,7 +5,7 @@ I for one never planned this to be an alternative way of playing the game, but r
 
 For more Information see the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
 ## Installation
- You need to install krpc into the ksp foldereither manualy or with ckan.
+ You need to install krpc into the ksp folder either manually or with ckan.
 ## Usage example
  -none-
 ## Development setup
