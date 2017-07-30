@@ -16,7 +16,7 @@ For more Information see the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Aut
  1.
  2.
  3.
-### Dependencies
+## Dependencies
 * krpc 2.8 and its dependencies
 
 ## Contributing
