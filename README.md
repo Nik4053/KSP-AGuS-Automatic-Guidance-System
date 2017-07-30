@@ -25,7 +25,8 @@ For more Information see the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Aut
 * 0.9.0
     * First public release
 ## Credits
-Niklas Heidenreich - @email
+Niklas Heidenreich
+Jakob Emmerling
 
 ## License
 All Rights Reserved
