@@ -5,18 +5,22 @@ I for one never planned this to be an alternative way of playing the game, but r
 
 For more Information see the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
 ## Installation
- You need to install krpc into the ksp folder either manually or with ckan.
+ 1. You need to install krpc into the ksp folder either manually or with ckan.
+ 2. Download and unzip the newest version of [AGuS](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/tree/master/user)
+ 3. Change the settings.ini inside the "settings" according to your needs. See the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
+ 4. Change and add missions inside the "settings/missions/" folder. See the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
+ 5. If you are ready start the AGuS.jar file.
 ## Usage example
  -none-
 ## Development setup
+ 1.
+ 2.
+ 3.
 ### Dependencies
 * krpc 2.8 and its dependencies
 
-no tests
-how doas a logger work
-
 ## Contributing
- -none-
+ Niklas Heidenreich (Nik4053) 
 ## Release History
 * 0.9.0
     * First public release
