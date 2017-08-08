@@ -4,18 +4,26 @@ I for one never planned this to be an alternative way of playing the game, but r
 <p>
 
 For more Information see the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
+## Overview
+The AGuS allows you to automaticly launch any given rocket into a desired Orbit.
+
+If you would rather like to create the maneuver nodes yourself you can use the "execute node" function of this software.
+
+The AGuS is still in development, so errors, bugs, or missing features are to excpect. If you have understanding of orbital dynamics, or want to help improve the code performance, readability, design, etc. your support will be more than welcome.
+
 ## Installation
  1. You need to install krpc into the ksp folder either manually or with ckan.
  2. Download and unzip the newest version of [AGuS](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/tree/master/user)
  3. Change the settings.ini inside the "settings" according to your needs. See the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
  4. Change and add missions inside the "settings/missions/" folder. See the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
- 5. If you are ready start the AGuS.jar file.
-## Usage example
- -none- 
+ 5. Start KSP and choose a vessel you want.
+ 6. Startup the Krpc server
+ 5. Start the AGuS.jar file and hit connect.
+ 
 ## Development setup
  1. Get the [krpc-java-x.x.x.jar](http://forum.kerbalspaceprogram.com/index.php?/topic/62902-130-krpc-remote-procedure-call-server-v039-14th-june-2017/) + all dependencies (protobuf + javatuples)
- #####add link###2. Download the newest version of the AGuS library [here.](http://forum.kerbalspaceprogram.com/index.php?/topic/62902-130-krpc-remote-procedure-call-server-v039-14th-june-2017/) + all dependencies (protobuf + javatuples)
- 3. (optional) if you do not want to use this library, but rather want to change, improve and add content to it you can download the sourcecode from the src folder
+ 2. Download the newest version of the AGuS library [here.](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/tree/master/libs)
+ 3. (optional) if you do not want to use this library, but rather want to change, improve and add content to it you can download the sourcecode from the src [folder](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/tree/master/dev)
 ## Dependencies
 * krpc 2.8 and its dependencies
 
