@@ -27,14 +27,17 @@ The AGuS is still in development, so errors, bugs, or missing features are to ex
 ## Dependencies
 * krpc 2.8 and its dependencies
 
-## Contributing
- Niklas Heidenreich (Nik4053) 
 ## Release History
 * 0.9.0
     * First public release
-## Credits
-* Niklas Heidenreich
-* Jakob Emmerling
+    
+## Contributing
+* Niklas Heidenreich (Nik4053) 
+* Jakob Emmerling (Jack-em)
 
+## Downloads
+* [AGuS plug and play executable](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/tree/master/user)
+* [AGuS precompiled library](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/tree/master/libs)
+* [AGuS source code for development](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/tree/master/dev)
 ## License
 All Rights Reserved
