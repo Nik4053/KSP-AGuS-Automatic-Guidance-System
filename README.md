@@ -11,11 +11,11 @@ For more Information see the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Aut
  4. Change and add missions inside the "settings/missions/" folder. See the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
  5. If you are ready start the AGuS.jar file.
 ## Usage example
- -none-
+ -none- 
 ## Development setup
- 1.
- 2.
- 3.
+ 1. Get the [krpc-java-x.x.x.jar](http://forum.kerbalspaceprogram.com/index.php?/topic/62902-130-krpc-remote-procedure-call-server-v039-14th-june-2017/) + all dependencies (protobuf + javatuples)
+ #####add link###2. Download the newest version of the AGuS library [here.](http://forum.kerbalspaceprogram.com/index.php?/topic/62902-130-krpc-remote-procedure-call-server-v039-14th-june-2017/) + all dependencies (protobuf + javatuples)
+ 3. (optional) if you do not want to use this library, but rather want to change, improve and add content to it you can download the sourcecode from the src folder
 ## Dependencies
 * krpc 2.8 and its dependencies
 
