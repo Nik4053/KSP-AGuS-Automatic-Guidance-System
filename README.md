@@ -39,5 +39,17 @@ The AGuS is still in development, so errors, bugs, or missing features are to ex
 * [AGuS plug and play executable](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/tree/master/user)
 * [AGuS precompiled library](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/tree/master/libs)
 * [AGuS source code for development](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/tree/master/dev)
+
+## Future plans
+* inclination change
+* better vessel orientation
+* raspberry support
+* displayOtron Hat support
+* planetary transfers
+* rover support
+* landing
+* docking
+* ballistic transfer
+
 ## License
 All Rights Reserved
