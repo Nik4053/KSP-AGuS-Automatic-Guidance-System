@@ -1,6 +1,6 @@
 # KSP-AGuS (Automatic Guidance System)
 > The goal of this project is to have a flexible and functional auto pilot for krpc that will be able to navigate any given Vessel to the desired orbit or location. The program structure was designed with compatibility and extensions in mind and is therefore easy to change according to personal needs. 
-I for one never planned this to be an alternative way of playing the game, but rather used it to learn more about programming in my free time and getting one step further on achieving my dream to work in the space industry. 
+I for one never planned this to be an alternative way of playing the game, but rather used it to learn more about programming in my free time. 
 <p>
 
 For more Information see the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
