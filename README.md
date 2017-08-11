@@ -12,10 +12,10 @@ If you would rather like to create the maneuver nodes yourself you can use the "
 The AGuS is still in development, so errors, bugs, or missing features are to excpect. If you have understanding of orbital dynamics, or want to help improve the code performance, readability, design, etc. your support will be more than welcome.
 
 ## Installation
- 1. You need to install krpc into the ksp gamedata folder either manually or with ckan. See the recommended versions [here](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/wiki)
+ 1. You need to install krpc into the ksp gamedata folder either manually or with ckan. See the recommended versions [here](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/wiki#11-versions)
  2. Download and unzip the newest version of [AGuS](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/tree/master/user)
- 3. Change the settings.ini inside the "settings" according to your needs. See the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
- 4. Change and add missions inside the "settings/missions/" folder. See the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
+ 3. Change the settings.ini inside the "settings" according to your needs. See the [wiki](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/wiki#41-settingsini)
+ 4. Change and add missions inside the "settings/missions/" folder. See the [wiki](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/wiki#42-missionini)
  5. Start KSP and choose a vessel you want.
  6. Startup the Krpc server
  5. Start the AGuS.jar file and hit connect.
