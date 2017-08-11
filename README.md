@@ -12,7 +12,7 @@ If you would rather like to create the maneuver nodes yourself you can use the "
 The AGuS is still in development, so errors, bugs, or missing features are to excpect. If you have understanding of orbital dynamics, or want to help improve the code performance, readability, design, etc. your support will be more than welcome.
 
 ## Installation
- 1. You need to install krpc into the ksp folder either manually or with ckan.
+ 1. You need to install krpc into the ksp gamedata folder either manually or with ckan. See the recommended versions [here](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/wiki)
  2. Download and unzip the newest version of [AGuS](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/tree/master/user)
  3. Change the settings.ini inside the "settings" according to your needs. See the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
  4. Change and add missions inside the "settings/missions/" folder. See the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
@@ -24,7 +24,7 @@ The AGuS is still in development, so errors, bugs, or missing features are to ex
  
 ## Development setup
  1. Get the [krpc-java-x.x.x.jar](http://forum.kerbalspaceprogram.com/index.php?/topic/62902-130-krpc-remote-procedure-call-server-v039-14th-june-2017/) + all dependencies (protobuf + javatuples)
- 2. Download the newest version of the AGuS library [here.](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/tree/master/libs)
+ 2. Download the newest version of the AGuS library [here.](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/tree/master/libs) See the README there for more information.
  3. (optional) if you do not want to use this library, but rather want to change, improve and add content to it you can download the sourcecode from the src [folder](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/tree/master/dev)
 ## Dependencies
 * krpc 2.8 and its dependencies
