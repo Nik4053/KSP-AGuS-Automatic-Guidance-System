@@ -23,11 +23,12 @@ The AGuS is still in development, so errors, bugs, or missing features are to ex
  Note that whenn changing the vessel the AGuS has to be restarted too.
  
 ## Development setup
- 1. Get the [krpc-java-x.x.x.jar](http://forum.kerbalspaceprogram.com/index.php?/topic/62902-130-krpc-remote-procedure-call-server-v039-14th-june-2017/) + all dependencies (protobuf + javatuples)
+ 1. Get the [krpc-java-x.x.x.jar](http://forum.kerbalspaceprogram.com/index.php?/topic/62902-130-krpc-remote-procedure-call-server-v039-14th-june-2017/) + all dependencies (protobuf + javatuples) + [NHLogJava](https://github.com/Nik4053/NHLogJava)
  2. Download the newest version of the AGuS library [here.](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/tree/master/libs) See the README there for more information.
  3. (optional) if you do not want to use this library, but rather want to change, improve and add content to it you can download the sourcecode from the src [folder](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/tree/master/dev)
 ## Dependencies
 * krpc 2.8 and its dependencies
+* [NHLogJava](https://github.com/Nik4053/NHLogJava)
 
 ## Release History
 * 0.9.0
