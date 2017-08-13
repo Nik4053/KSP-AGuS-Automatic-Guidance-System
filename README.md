@@ -55,4 +55,4 @@ The AGuS is still in development, so errors, bugs, or missing features are to ex
 * ballistic transfer
 
 ## License
-All Rights Reserved
+[See LICENSE.md](https://github.com/Nik4053/KSP-AGuS-Automatic-Guidance-System/blob/master/LICENSE)
