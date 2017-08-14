@@ -3,7 +3,7 @@
 I for one never planned this to be an alternative way of playing the game, but rather used it to learn more about programming in my free time. 
 <p>
 
-For more Information see the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki)
+For more Information see the [wiki](https://github.com/Nik4053/KSP-KRPC-AGuS-Automatic-Guidance-System/wiki) or visit [docs](https://nik4053.github.io/KSP-AGuS-Automatic-Guidance-System/)
 ## Overview
 The AGuS allows you to automaticly launch any given rocket into a desired Orbit.
 
