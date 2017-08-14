@@ -34,7 +34,7 @@ The AGuS is still in development, so errors, bugs, or missing features are to ex
 * 0.9.0
     * First public release
     
-## Contributing
+## Credits
 * Niklas Heidenreich (Nik4053) 
 * Jakob Emmerling (Jack-em)
 
