@@ -31,7 +31,7 @@ The AGuS is still in development, so errors, bugs, or missing features are to ex
 * [NHLogJava](https://github.com/Nik4053/NHLogJava)
 
 ## Release History
-* Beta 1
+* 0.8
     * First public release
     
 ## Credits
